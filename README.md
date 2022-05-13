@@ -17,5 +17,5 @@ Houdini: **19.0+**
 5) Prepare the texture: **Set shape to 3D**; **Set rows and columns**; **Set Wrap Mode to Clamp**; **Set Format to RGBA 32 bit**
 6) Plug your texture in Local Density Mask Texture
 
-https://user-images.githubusercontent.com/50581102/168314047-fc2a299d-a782-4d84-b02c-b64d504478a6.mp4
+https://user-images.githubusercontent.com/50581102/168315250-f6d5731b-ea98-4416-b044-1e56e460d5ce.mp4
 
