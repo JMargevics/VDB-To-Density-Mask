@@ -12,7 +12,7 @@ Houdini: **19.0+**
 
 1) Open **VDBConverter.hip**
 2) Open **VDBConverter** geometry node and plug your mesh in. Avoid large meshes for better performance, keep scale within 10 Houdini units. 
-3) Open **Process3DTexture** COP network, select Output node and hit render. If you have changed Volume Texture dimensions, select sppimport1 node and click Set Resolution From SOP
+3) Open **Process3DTexture** COP network, select Output node and hit render. If you have changed Volume Texture dimensions, select **sopimport1** node and click **Set Resolution From SOP**
 4) Import texture to Unity
 5) Prepare the texture: **Set shape to 3D**; **Set rows and columns**; **Set Wrap Mode to Clamp**; **Set Format to RGBA 32 bit**
 6) Plug your texture in Local Density Mask Texture
